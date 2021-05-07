@@ -2,7 +2,7 @@
 A flask blog API 
 ---
 Implementing *data structures* such as:
-*Linked List
-*Stacks
-*Queue
+* Linked List
+* Stacks
+* Queues
 
