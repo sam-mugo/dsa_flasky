@@ -5,6 +5,10 @@ from sqlalchemy import event
 from sqlalchemy.engine import Engine
 from flask_sqlalchemy import SQLAlchemy
 import linked_list 
+
+
+
+
 app = Flask(__name__)
 
 #db config
